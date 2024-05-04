@@ -1,0 +1,16 @@
+name: dart_chatroom_part_one
+description: A simple chatroom server and a client on Dart/Flutter
+version: 1.0.0
+repository: https://github.com/kliuchev/dart_chatroom_part_one
+
+environment:
+  sdk: ^3.3.3
+
+dependencies:
+  args: ^2.4.0
+  shelf: ^1.4.0
+  shelf_web_socket: ^1.0.4
+  web_socket_channel: ^2.4.5
+
+dev_dependencies:
+  lints: ^3.0.0
